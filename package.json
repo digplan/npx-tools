@@ -1,0 +1,15 @@
+{
+  "name": "c-toml",
+  "version": "0.1.5",
+  "description": "",
+  "main": "./convert.mjs",
+  "bin": "./convert.mjs",
+  "scripts": {
+    "test": "node test.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "toml": "^3.0.0"
+  }
+}
